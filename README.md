@@ -1,5 +1,7 @@
 # **GTD: Trello Card Links**
+
 -----
+
 This small extension helps you GET THINGS DONE more quickly by pasting clickable links directly on the front of your Trello Cards!  
 
 ### Features
@@ -20,3 +22,7 @@ https://trello.com/b/6DoBxhuZ/gtd-trello-card-links
 ### Opensource
 This extension is opensource, so feel free to grab it and extend (Pull Requests are welcome!)
 https://github.com/oneezy/gtd-trello-card-links
+
+### Support
+Buy me a coffee? :)
+https://www.patreon.com/oneezy
