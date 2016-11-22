@@ -1,4 +1,5 @@
-# GTD: Trello Card Links
+# GTD: Trello Card Links (Chrome Extension)
+(v1.0.0)
 
 -----
 
