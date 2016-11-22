@@ -15,17 +15,10 @@ This small extension helps you GET THINGS DONE more quickly by pasting clickable
 4. Paste a link 
 5. Click the link!
 
-### Demo
-Activate the extension and use this Trello Demo Board to test it out
+### More Links!
 
-https://trello.com/b/6DoBxhuZ/gtd-trello-card-links
+**Demo:** https://trello.com/b/6DoBxhuZ/gtd-trello-card-links
 
-### Opensource
-This extension is opensource, so feel free to grab it and extend (Pull Requests are welcome!)
+**Github:** https://github.com/oneezy/gtd-trello-card-links
 
-https://github.com/oneezy/gtd-trello-card-links
-
-### Support
-Buy me a coffee? :)
-
-https://www.patreon.com/oneezy
+**Patreon:** https://www.patreon.com/oneezy
