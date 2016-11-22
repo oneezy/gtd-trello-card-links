@@ -1,9 +1,6 @@
 # GTD: Trello Card Links (Chrome Extension)
-(v1.0.0)
 
------
-
-This small extension helps you GET THINGS DONE more quickly by pasting clickable links directly on the front of your Trello Cards!  
+This small extension helps you GET THINGS DONE quickly by pasting clickable links directly on the front of your Trello Cards!  
 
 ### Features
 - Clickable Links on cards
