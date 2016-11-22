@@ -1,0 +1,52 @@
+/************************************************************************
+	GTD Trello (Card Links)
+*************************************************************************/
+
+/*
+.gtd-trello .list-card .gtd-link { display: block; color: inherit; text-decoration: none; }
+.gtd-trello .list-card .gtd-link:before { content: "➜ "; text-decoration: none; display: inline-block; }
+
+.gtd-active-link { transition: color 0.25s ease-out; display: block; color: rgba(0,0,0, 0); text-decoration: none; }
+.gtd-active-link:before { content: "➜ "; text-decoration: none; }
+.gtd-active-link:hover { display: block; color: rgba(0,0,0, .47); }*/
+
+
+/************************************************************************
+	GTD Trello (Card Links)
+*************************************************************************/
+
+.gtd-trello .list-card .gtd-link {
+    display: block;
+    color: inherit;
+    color: rgb(0, 121, 191);
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+    margin: 0 0 2px;
+}
+
+.gtd-trello .list-card .gtd-link:first-of-type {
+    margin: 0 0 10px;
+}
+
+.gtd-active-link {
+    transition: opacity 0.25s ease-out;
+    opacity: 0;
+    text-decoration: none;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+    margin: 0 0 2px;
+}
+
+.gtd-trello .list-card .gtd-active-link:first-of-type {
+    margin: 0 0 10px;
+}
+
+.gtd-active-link:hover {
+    opacity: .47;
+}
