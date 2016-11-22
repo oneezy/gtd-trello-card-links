@@ -17,8 +17,6 @@ This small extension helps you GET THINGS DONE more quickly by pasting clickable
 
 ### More Links!
 
-**Demo:** https://trello.com/b/6DoBxhuZ/gtd-trello-card-links
-
-**Github:** https://github.com/oneezy/gtd-trello-card-links
-
-**Patreon:** https://www.patreon.com/oneezy
+- **Demo:** https://trello.com/b/6DoBxhuZ/gtd-trello-card-links
+- **Github:** https://github.com/oneezy/gtd-trello-card-links
+- **Patreon:** https://www.patreon.com/oneezy
