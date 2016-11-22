@@ -1,4 +1,4 @@
-# **GTD: Trello Card Links**
+# GTD: Trello Card Links
 
 -----
 
@@ -17,12 +17,15 @@ This small extension helps you GET THINGS DONE more quickly by pasting clickable
 
 ### Demo
 Activate the extension and use this Trello Demo Board to test it out
+
 https://trello.com/b/6DoBxhuZ/gtd-trello-card-links
 
 ### Opensource
 This extension is opensource, so feel free to grab it and extend (Pull Requests are welcome!)
+
 https://github.com/oneezy/gtd-trello-card-links
 
 ### Support
 Buy me a coffee? :)
+
 https://www.patreon.com/oneezy
