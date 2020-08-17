@@ -1,21 +1,15 @@
 /************************************************************************
 	GTD Trello (Getting things started...)
 *************************************************************************/
-
-'use strict';
-
 $(document).ready(function() {
 
     // Append ".gtd-trello" class to body
     $("body").addClass("gtd-trello");
 
-    // Run Functions...
-    GTD_CardLinks();
-
-    $('body').ready(function() {
+    $(document).ready(function() {
         setTimeout(function() {
             GTD_CardLinks();
-        }, 20);
+        }, 1000);
     });
 
     // Listen for user input...

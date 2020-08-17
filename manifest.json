@@ -1,7 +1,7 @@
 {
     "name": "GTD: Trello Card Links",
     "description": "Get Things Done with Trello Card Links!",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "manifest_version": 2,
     "icons": {
         "16": "images/icon16.png",
@@ -20,17 +20,6 @@
 
         "css": [
             "gtd-trello/card-links/card-links.css"
-        ],
-
-        "run_at": "document_idle"
-    }],
-    "background": {
-        "scripts": ["background.js"]
-    },
-
-    "permissions": [
-        "*://trello.com/*",
-        "tabs",
-        "webNavigation"
-    ]
+        ]
+    }]
 }
